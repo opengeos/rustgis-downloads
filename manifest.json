@@ -1,0 +1,206 @@
+{
+  "schema_version": 1,
+  "product": "RustGIS",
+  "generated_at": "2026-10-16T20:06:56Z",
+  "max_mirrored_bytes": 104857600,
+  "release": {
+    "tag": "v0.3.0",
+    "name": "v0.3.0",
+    "published_at": "2026-10-16T19:47:35Z",
+    "github_url": "https://github.com/opengeos/RustGIS/releases/tag/v0.3.0"
+  },
+  "artifacts": [
+    {
+      "name": "rustgis-0.3.0-1.aarch64.rpm",
+      "size": 38360088,
+      "content_type": "application/x-rpm",
+      "digest": "sha256:d6c15c28bbc389dc216b37039e841133a79b01182b63aad10373ffccab05a634",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis-0.3.0-1.aarch64.rpm",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.3.0/rustgis-0.3.0-1.aarch64.rpm"
+    },
+    {
+      "name": "rustgis-0.3.0-1.x86_64.rpm",
+      "size": 38187173,
+      "content_type": "application/x-rpm",
+      "digest": "sha256:194ba004d25eba7e39cac9de0780a4114ba43b2526b0385b03398d77505838a9",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis-0.3.0-1.x86_64.rpm",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.3.0/rustgis-0.3.0-1.x86_64.rpm"
+    },
+    {
+      "name": "rustgis-0.3.0-cp312-abi3-macosx_10_12_x86_64.whl",
+      "size": 12500144,
+      "content_type": "application/octet-stream",
+      "digest": "sha256:832a1394e03a1582e078c67210e58cf174838c3d440610ca8f4fee6884c68f6f",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis-0.3.0-cp312-abi3-macosx_10_12_x86_64.whl",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.3.0/rustgis-0.3.0-cp312-abi3-macosx_10_12_x86_64.whl"
+    },
+    {
+      "name": "rustgis-0.3.0-cp312-abi3-macosx_11_0_arm64.whl",
+      "size": 11975476,
+      "content_type": "application/octet-stream",
+      "digest": "sha256:d6d0826ac0289ca0c05104e419b83cf0faf4a251e497712b81477ffeb4ff3d4b",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis-0.3.0-cp312-abi3-macosx_11_0_arm64.whl",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.3.0/rustgis-0.3.0-cp312-abi3-macosx_11_0_arm64.whl"
+    },
+    {
+      "name": "rustgis-0.3.0-cp312-abi3-manylinux_2_28_aarch64.whl",
+      "size": 13341713,
+      "content_type": "application/octet-stream",
+      "digest": "sha256:fe8c5271fce6cd84611d38f95c0cb96303226ac54ef1077c6ceb68f008cd3d39",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis-0.3.0-cp312-abi3-manylinux_2_28_aarch64.whl",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.3.0/rustgis-0.3.0-cp312-abi3-manylinux_2_28_aarch64.whl"
+    },
+    {
+      "name": "rustgis-0.3.0-cp312-abi3-manylinux_2_28_x86_64.whl",
+      "size": 13237754,
+      "content_type": "application/octet-stream",
+      "digest": "sha256:efa0cf5dc4e9cd7dda8b43c630df2f3a302ea9edc4a8120b34d7644f26726371",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis-0.3.0-cp312-abi3-manylinux_2_28_x86_64.whl",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.3.0/rustgis-0.3.0-cp312-abi3-manylinux_2_28_x86_64.whl"
+    },
+    {
+      "name": "rustgis-0.3.0-cp312-abi3-win_amd64.whl",
+      "size": 12128435,
+      "content_type": "application/octet-stream",
+      "digest": "sha256:43495804d5d3881c1d075ef9d69d3633551c7fedc67ec1a0e23d9464e9dd57be",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis-0.3.0-cp312-abi3-win_amd64.whl",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.3.0/rustgis-0.3.0-cp312-abi3-win_amd64.whl"
+    },
+    {
+      "name": "RustGIS-0.3.0-linux-aarch64.AppImage",
+      "size": 35875336,
+      "content_type": "application/vnd.appimage",
+      "digest": "sha256:83c5f1b2167fa534c6baadf230f091ab70f35176983afbaf2d1d56d7a1f79d53",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.3.0-linux-aarch64.AppImage",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.3.0/RustGIS-0.3.0-linux-aarch64.AppImage"
+    },
+    {
+      "name": "RustGIS-0.3.0-linux-aarch64.tar.gz",
+      "size": 38524729,
+      "content_type": "application/x-gtar",
+      "digest": "sha256:c96581469c8fb84ee1a2d13e06f582b4f3a6ca6409f41466fe9c3d54e57021f3",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.3.0-linux-aarch64.tar.gz",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.3.0/RustGIS-0.3.0-linux-aarch64.tar.gz"
+    },
+    {
+      "name": "RustGIS-0.3.0-linux-x86_64.AppImage",
+      "size": 36026872,
+      "content_type": "application/vnd.appimage",
+      "digest": "sha256:f2e7a3e9dd050e4d5d3f736a9a21afc8746b0a479cfeca6a6afd763554b191a9",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.3.0-linux-x86_64.AppImage",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.3.0/RustGIS-0.3.0-linux-x86_64.AppImage"
+    },
+    {
+      "name": "RustGIS-0.3.0-linux-x86_64.tar.gz",
+      "size": 38389912,
+      "content_type": "application/x-gtar",
+      "digest": "sha256:98c7c2a3c2e646fb0affb6c812db6735f83b316d35c4ef89fd3bb658cebb08f2",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.3.0-linux-x86_64.tar.gz",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.3.0/RustGIS-0.3.0-linux-x86_64.tar.gz"
+    },
+    {
+      "name": "RustGIS-0.3.0-macos-aarch64.dmg",
+      "size": 23409165,
+      "content_type": "application/x-apple-diskimage",
+      "digest": "sha256:0477c3ed4c9c6f2a9bb7c0be697958a999f5ae984b42c9e12aa6dc225b6fa3ec",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.3.0-macos-aarch64.dmg",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.3.0/RustGIS-0.3.0-macos-aarch64.dmg"
+    },
+    {
+      "name": "RustGIS-0.3.0-macos-x86_64.dmg",
+      "size": 25706381,
+      "content_type": "application/x-apple-diskimage",
+      "digest": "sha256:8d350022c2d6e29b43717d22ffc92e495d19674b6ceac6a08225445a858898b3",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.3.0-macos-x86_64.dmg",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.3.0/RustGIS-0.3.0-macos-x86_64.dmg"
+    },
+    {
+      "name": "RustGIS-0.3.0-windows-x86_64-portable.zip",
+      "size": 32264984,
+      "content_type": "application/zip",
+      "digest": "sha256:6e1474cb0e263ceeff9fd5110600b2a3b7ee388f2945bc0e4b7a0cda8b70d18d",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.3.0-windows-x86_64-portable.zip",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.3.0/RustGIS-0.3.0-windows-x86_64-portable.zip"
+    },
+    {
+      "name": "RustGIS-0.3.0-windows-x86_64-setup.exe",
+      "size": 23137022,
+      "content_type": "application/octet-stream",
+      "digest": "sha256:47c0594414d9f3e56c956ebbb451f090c422cdafb893ddf8562ed044b0f6745f",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.3.0-windows-x86_64-setup.exe",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.3.0/RustGIS-0.3.0-windows-x86_64-setup.exe"
+    },
+    {
+      "name": "RustGIS-0.3.0-windows-x86_64.msi",
+      "size": 26968064,
+      "content_type": "application/x-msi",
+      "digest": "sha256:6536fb44d55545fbaf6eee020ca432ff53c3e5a7ab98587a36d4eccc0503dd9c",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.3.0-windows-x86_64.msi",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.3.0/RustGIS-0.3.0-windows-x86_64.msi"
+    },
+    {
+      "name": "rustgis-0.3.0.tar.gz",
+      "size": 1193162,
+      "content_type": "application/x-gtar",
+      "digest": "sha256:70be93589ce70333c910d9889a3ea932bcec30b7720e3ea376a31648b19c11a1",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis-0.3.0.tar.gz",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.3.0/rustgis-0.3.0.tar.gz"
+    },
+    {
+      "name": "rustgis-cli-0.3.0-macos-aarch64.tar.gz",
+      "size": 12062383,
+      "content_type": "application/x-gtar",
+      "digest": "sha256:29a29095347f5ce7bef771355f58d5c958f563397be4f46fa2c9859bb0b203a2",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis-cli-0.3.0-macos-aarch64.tar.gz",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.3.0/rustgis-cli-0.3.0-macos-aarch64.tar.gz"
+    },
+    {
+      "name": "rustgis-cli-0.3.0-macos-x86_64.tar.gz",
+      "size": 13274126,
+      "content_type": "application/x-gtar",
+      "digest": "sha256:c1419435cc7e0e3835d294848de0cfa5ea567a99a59272ed40a0bb1bd10051c6",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis-cli-0.3.0-macos-x86_64.tar.gz",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.3.0/rustgis-cli-0.3.0-macos-x86_64.tar.gz"
+    },
+    {
+      "name": "rustgis_0.3.0_amd64.deb",
+      "size": 28263856,
+      "content_type": "application/x-debian-package",
+      "digest": "sha256:358d683571d7857c099531425165b0777aa6392a568125b3e0748a1d515507ff",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis_0.3.0_amd64.deb",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.3.0/rustgis_0.3.0_amd64.deb"
+    },
+    {
+      "name": "rustgis_0.3.0_arm64.deb",
+      "size": 27413516,
+      "content_type": "application/x-debian-package",
+      "digest": "sha256:5c1c22610ad5b07acc1615c48233aed4b1b222f3a7d93b00a1f60bd14201fee4",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis_0.3.0_arm64.deb",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.3.0/rustgis_0.3.0_arm64.deb"
+    }
+  ],
+  "mirrored_bytes": 502240291,
+  "mirrored_count": 21,
+  "github_only_count": 0
+}
