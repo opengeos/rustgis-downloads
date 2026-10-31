@@ -1,0 +1,269 @@
+{
+  "schema_version": 1,
+  "product": "RustGIS",
+  "generated_at": "2026-10-31T22:51:56Z",
+  "max_mirrored_bytes": 104857600,
+  "release": {
+    "tag": "v0.5.0",
+    "name": "v0.5.0",
+    "published_at": "2026-10-31T22:30:20Z",
+    "github_url": "https://github.com/opengeos/RustGIS/releases/tag/v0.5.0"
+  },
+  "artifacts": [
+    {
+      "name": "rustgis-0.5.0-1.aarch64.rpm",
+      "size": 62065261,
+      "content_type": "application/x-rpm",
+      "digest": "sha256:e64065ed075df99afc5029bc1fc9a3d436769b3c3ce1d6dbc7b875cc25483c58",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis-0.5.0-1.aarch64.rpm",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/rustgis-0.5.0-1.aarch64.rpm"
+    },
+    {
+      "name": "rustgis-0.5.0-1.x86_64.rpm",
+      "size": 61996620,
+      "content_type": "application/x-rpm",
+      "digest": "sha256:c4cd42765b3b09d44569f0ca8de198aa2fc345a5f7c1772c2b5426c06b9d6d6d",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis-0.5.0-1.x86_64.rpm",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/rustgis-0.5.0-1.x86_64.rpm"
+    },
+    {
+      "name": "rustgis-0.5.0-cp312-abi3-macosx_10_12_x86_64.whl",
+      "size": 21026251,
+      "content_type": "application/octet-stream",
+      "digest": "sha256:0c4596b5d60d748592d84b19c2a65288eee6def6a0ed1fad8b3ae50a7e045104",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis-0.5.0-cp312-abi3-macosx_10_12_x86_64.whl",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/rustgis-0.5.0-cp312-abi3-macosx_10_12_x86_64.whl"
+    },
+    {
+      "name": "rustgis-0.5.0-cp312-abi3-macosx_11_0_arm64.whl",
+      "size": 20037852,
+      "content_type": "application/octet-stream",
+      "digest": "sha256:c62234baaa87567e39197176a64cfb01acddf55210c99e1b54c9993adc6b1211",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis-0.5.0-cp312-abi3-macosx_11_0_arm64.whl",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/rustgis-0.5.0-cp312-abi3-macosx_11_0_arm64.whl"
+    },
+    {
+      "name": "rustgis-0.5.0-cp312-abi3-manylinux_2_28_aarch64.whl",
+      "size": 23492035,
+      "content_type": "application/octet-stream",
+      "digest": "sha256:f8ae296781216657f56945455f204d7f7dc75b7ff7755e6e84495f1fa3d7c5ce",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis-0.5.0-cp312-abi3-manylinux_2_28_aarch64.whl",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/rustgis-0.5.0-cp312-abi3-manylinux_2_28_aarch64.whl"
+    },
+    {
+      "name": "rustgis-0.5.0-cp312-abi3-manylinux_2_28_x86_64.whl",
+      "size": 23342106,
+      "content_type": "application/octet-stream",
+      "digest": "sha256:bee857b3a33f545bf57f1fa53c50a6faa8aed1100db38fcd24d632ea69cac1b6",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis-0.5.0-cp312-abi3-manylinux_2_28_x86_64.whl",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/rustgis-0.5.0-cp312-abi3-manylinux_2_28_x86_64.whl"
+    },
+    {
+      "name": "rustgis-0.5.0-cp312-abi3-win_amd64.whl",
+      "size": 20232673,
+      "content_type": "application/octet-stream",
+      "digest": "sha256:e5954d133b601fbe02f275189e5ea30db31a48f55f5bd4f6007089b155b0effe",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis-0.5.0-cp312-abi3-win_amd64.whl",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/rustgis-0.5.0-cp312-abi3-win_amd64.whl"
+    },
+    {
+      "name": "rustgis-0.5.0-cp312-abi3-win_arm64.whl",
+      "size": 18707449,
+      "content_type": "application/octet-stream",
+      "digest": "sha256:b6775cc74429424e9663e10646f010b753bf98d9622779f737fee0d92f3a6ed0",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis-0.5.0-cp312-abi3-win_arm64.whl",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/rustgis-0.5.0-cp312-abi3-win_arm64.whl"
+    },
+    {
+      "name": "RustGIS-0.5.0-linux-aarch64.AppImage",
+      "size": 57399816,
+      "content_type": "application/vnd.appimage",
+      "digest": "sha256:6cb14c64d95611136d793b6e22cee921883f7bcac6a072bf5c080aff10a031c7",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.5.0-linux-aarch64.AppImage",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/RustGIS-0.5.0-linux-aarch64.AppImage"
+    },
+    {
+      "name": "RustGIS-0.5.0-linux-aarch64.AppImage.zsync",
+      "size": 196439,
+      "content_type": "application/octet-stream",
+      "digest": "sha256:7c426e9d018cff48613fc47078df8cc57c8f2d10e3d9a0ed7f1e022f74f0f5ca",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.5.0-linux-aarch64.AppImage.zsync",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/RustGIS-0.5.0-linux-aarch64.AppImage.zsync"
+    },
+    {
+      "name": "RustGIS-0.5.0-linux-aarch64.tar.gz",
+      "size": 62360309,
+      "content_type": "application/x-gtar",
+      "digest": "sha256:117c26b7075c5305444c35300ddfba69f6c70bd126d437f8bec8f70deabd31a3",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.5.0-linux-aarch64.tar.gz",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/RustGIS-0.5.0-linux-aarch64.tar.gz"
+    },
+    {
+      "name": "RustGIS-0.5.0-linux-x86_64.AppImage",
+      "size": 57797112,
+      "content_type": "application/vnd.appimage",
+      "digest": "sha256:9e5f420a5ee9450699e236f141dfbb9bd905b0e958a0aa83f06a1ba9e211833c",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.5.0-linux-x86_64.AppImage",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/RustGIS-0.5.0-linux-x86_64.AppImage"
+    },
+    {
+      "name": "RustGIS-0.5.0-linux-x86_64.AppImage.zsync",
+      "size": 197795,
+      "content_type": "application/octet-stream",
+      "digest": "sha256:9d0db8b9c1dcdd7597c2325eb9e410d23d06b74ee7681df04e77f8d0de604ec6",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.5.0-linux-x86_64.AppImage.zsync",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/RustGIS-0.5.0-linux-x86_64.AppImage.zsync"
+    },
+    {
+      "name": "RustGIS-0.5.0-linux-x86_64.tar.gz",
+      "size": 62384470,
+      "content_type": "application/x-gtar",
+      "digest": "sha256:a14e6bed30059ab8fb1c026c71bdb46891b2b4195e0d0ea39cc1f903b64fa9bf",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.5.0-linux-x86_64.tar.gz",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/RustGIS-0.5.0-linux-x86_64.tar.gz"
+    },
+    {
+      "name": "RustGIS-0.5.0-macos-aarch64.dmg",
+      "size": 37070059,
+      "content_type": "application/x-apple-diskimage",
+      "digest": "sha256:3c6859bd2d515b7c5e9c913532ed22f3c37ab5765f777da20b55d8fbc500195c",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.5.0-macos-aarch64.dmg",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/RustGIS-0.5.0-macos-aarch64.dmg"
+    },
+    {
+      "name": "RustGIS-0.5.0-macos-x86_64.dmg",
+      "size": 40792867,
+      "content_type": "application/x-apple-diskimage",
+      "digest": "sha256:e44499ca71a927a6eb18eed9fd17a726bdb3d54ace6b2e0d249973e803a698b8",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.5.0-macos-x86_64.dmg",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/RustGIS-0.5.0-macos-x86_64.dmg"
+    },
+    {
+      "name": "RustGIS-0.5.0-web.zip",
+      "size": 14951286,
+      "content_type": "application/zip",
+      "digest": "sha256:f280a391d6c75046ac268a6997100ea4b843cf4774e940d852f2ffe78545b4b0",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.5.0-web.zip",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/RustGIS-0.5.0-web.zip"
+    },
+    {
+      "name": "RustGIS-0.5.0-windows-aarch64-portable.zip",
+      "size": 47869669,
+      "content_type": "application/zip",
+      "digest": "sha256:c17f9d20645fa01b268db06ba87b9602432c92600bb795a035bcb432884f2d6c",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.5.0-windows-aarch64-portable.zip",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/RustGIS-0.5.0-windows-aarch64-portable.zip"
+    },
+    {
+      "name": "RustGIS-0.5.0-windows-aarch64-setup.exe",
+      "size": 31441755,
+      "content_type": "application/octet-stream",
+      "digest": "sha256:5d1678d80a343b5b2a6f4ff49855637800b4e1b97d686b1fbea67781579c0c0f",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.5.0-windows-aarch64-setup.exe",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/RustGIS-0.5.0-windows-aarch64-setup.exe"
+    },
+    {
+      "name": "RustGIS-0.5.0-windows-aarch64.msi",
+      "size": 37617664,
+      "content_type": "application/x-msi",
+      "digest": "sha256:53ca6288018cccb1da0cfcf2b4f6ea1c6d23619698c8ec11c2ef747852ec2133",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.5.0-windows-aarch64.msi",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/RustGIS-0.5.0-windows-aarch64.msi"
+    },
+    {
+      "name": "RustGIS-0.5.0-windows-x86_64-portable.zip",
+      "size": 51840313,
+      "content_type": "application/zip",
+      "digest": "sha256:e9e24dd64e37bd9e75016821f6838f83232b437e25838dd9fa51b8d4bc99bfb0",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.5.0-windows-x86_64-portable.zip",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/RustGIS-0.5.0-windows-x86_64-portable.zip"
+    },
+    {
+      "name": "RustGIS-0.5.0-windows-x86_64-setup.exe",
+      "size": 36520148,
+      "content_type": "application/octet-stream",
+      "digest": "sha256:864f29d32d936d7d19b403044a3b4d6e9d3a6ca8f2bc6bdb42f1028a8ef94c66",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.5.0-windows-x86_64-setup.exe",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/RustGIS-0.5.0-windows-x86_64-setup.exe"
+    },
+    {
+      "name": "RustGIS-0.5.0-windows-x86_64.msi",
+      "size": 42164224,
+      "content_type": "application/x-msi",
+      "digest": "sha256:fbe650dd78851fff686397a9de3aa0938a9f9844ab7bcd13f573558dc3015504",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/RustGIS-0.5.0-windows-x86_64.msi",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/RustGIS-0.5.0-windows-x86_64.msi"
+    },
+    {
+      "name": "rustgis-0.5.0.tar.gz",
+      "size": 3910817,
+      "content_type": "application/x-gtar",
+      "digest": "sha256:16397d14efeec1872d8d3d3d38906b6ecc6a3aca2afee4ae25cf53f59f0b2daf",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis-0.5.0.tar.gz",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/rustgis-0.5.0.tar.gz"
+    },
+    {
+      "name": "rustgis-cli-0.5.0-macos-aarch64.tar.gz",
+      "size": 20300004,
+      "content_type": "application/x-gtar",
+      "digest": "sha256:b142787965ce852e3b2511dd19aff7d3412c6d9fc79f8408f2f307d5debaf458",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis-cli-0.5.0-macos-aarch64.tar.gz",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/rustgis-cli-0.5.0-macos-aarch64.tar.gz"
+    },
+    {
+      "name": "rustgis-cli-0.5.0-macos-x86_64.tar.gz",
+      "size": 22402395,
+      "content_type": "application/x-gtar",
+      "digest": "sha256:07a6a0619e78b7a2ec026e0e87957ddd81f44414838d472cd4cff7800129cfbf",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis-cli-0.5.0-macos-x86_64.tar.gz",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/rustgis-cli-0.5.0-macos-x86_64.tar.gz"
+    },
+    {
+      "name": "rustgis_0.5.0_amd64.deb",
+      "size": 44654632,
+      "content_type": "application/x-debian-package",
+      "digest": "sha256:cde638854fd52f117a4683fe536f21e23368f6fe0aa596fdeb3049f152683a21",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis_0.5.0_amd64.deb",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/rustgis_0.5.0_amd64.deb"
+    },
+    {
+      "name": "rustgis_0.5.0_arm64.deb",
+      "size": 42974570,
+      "content_type": "application/x-debian-package",
+      "digest": "sha256:2820dbb8bf56d0fecded5b14c37944395b73c640ef2d29be0d6d9deb66c4fd0a",
+      "mirrored": true,
+      "download_url": "https://downloads.rustgis.app/artifacts/rustgis_0.5.0_arm64.deb",
+      "github_url": "https://github.com/opengeos/RustGIS/releases/download/v0.5.0/rustgis_0.5.0_arm64.deb"
+    }
+  ],
+  "mirrored_bytes": 965746591,
+  "mirrored_count": 28,
+  "github_only_count": 0
+}
